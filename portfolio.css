@@ -9,6 +9,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 180px;
 }
 
 .text-primary{
@@ -46,7 +47,22 @@ flex-shrink: 0;
 border-radius: 5px;
 background: #FD6E0A;
 border: 0;
-padding: 15px 10px;
-font-size: 15px;
+padding: 10px 10px;
+font-size: 12px;
 color: white;
+}
+
+/* header style */
+.header {
+    background-color: #FFF8F3;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-picture {
+    height: 600px;
+    width: 500px;
 }
