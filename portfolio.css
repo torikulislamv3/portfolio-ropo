@@ -109,6 +109,7 @@ padding: 130px 150px;
 
 .section-title {
     font-size: 25px;
+    text-align: center;
 }
 
 .about-info{
@@ -128,4 +129,21 @@ padding: 130px 150px;
 
 .about-description{
     margin-top: 1px;
+}
+
+
+
+.section-description {
+   /* position: absolute; */
+   text-align: center;
+   
+   
+}
+
+#madarboard {
+   padding:0 300px;
+}
+
+.combe{
+    margin: 0 150px 0 150px;
 }
